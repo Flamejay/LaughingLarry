@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Git/ROFLMAO/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Git/ROFLMAO/Content/TestLevel.umap",
+				"E:/Git/ROFLMAO/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Git/ROFLMAO/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset"
+			]
+		}
+	]
+}
