@@ -10,6 +10,17 @@
 				"E:/Git/ROFLMAO/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/Git/ROFLMAO/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
 				"E:/Git/LaughingLarry/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Git/LaughingLarry/Content/MainLevel.umap",
+				"E:/Git/LaughingLarry/Content/Programming/MechPrograms/BP_RAOGSpawnChance.uasset",
+				"E:/Git/LaughingLarry/Content/Programming/MechPrograms/BP_RandomActsOfGod.uasset",
+				"E:/Git/LaughingLarry/Content/Programming/MechPrograms/BP_RAOGSpawner.uasset",
+				"E:/Git/LaughingLarry/Content/Programming/MechPrograms/BI_Acts.uasset",
+				"E:/Git/LaughingLarry/Content/Programming/MechPrograms/BPI_Acts.uasset",
+				"E:/Git/LaughingLarry/Content/TestLevel.umap",
+				"E:/Git/LaughingLarry/Content/Programming/UIPrograms/WB_MainMenu.uasset",
+				"E:/Git/LaughingLarry/Content/Programming/MechPrograms/BPI_ItemStruct.uasset",
+				"E:/Git/LaughingLarry/Content/Programming/MechPrograms/BPC_Item.uasset",
+				"E:/Git/LaughingLarry/Content/Programming/MechPrograms/DataTable_Acts.uasset",
 				"E:/Git/LaughingLarry/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"E:/Git/LaughingLarry/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset",
 				"E:/Git/LaughingLarry/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
@@ -133,8 +144,7 @@
 				"E:/Git/LaughingLarry/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
 				"E:/Git/LaughingLarry/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
 				"E:/Git/LaughingLarry/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
-				"E:/Git/LaughingLarry/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
-				"E:/Git/LaughingLarry/Content/MainLevel.umap"
+				"E:/Git/LaughingLarry/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
 			]
 		}
 	]
